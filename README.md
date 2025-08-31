@@ -53,8 +53,6 @@ Checks for medicines due in the next hour ⏰
 Sends visual reminders: 🔔 "It’s time to take Medicine Name"
 
 ### 📂 Project Structure
-bash
-Copy code
 MedBot-Mini/
 │
 ├── app.py             # Main Streamlit app
