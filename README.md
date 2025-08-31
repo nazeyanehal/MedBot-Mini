@@ -53,11 +53,13 @@ Checks for medicines due in the next hour ⏰
 Sends visual reminders: 🔔 "It’s time to take Medicine Name"
 
 ### 📂 Project Structure
+```
 MedBot-Mini/
 │
 ├── app.py             # Main Streamlit app
 ├── medicine_data.py   # Database of medicines
 └── README.md          # Project README
+```
 
 ### 📝 How It Works
 Medicines are retrieved from a pre-defined database (med_db)
