@@ -11,18 +11,18 @@ It provides detailed information about medicines, tracks daily medication schedu
 ```bash
 git clone https://github.com/nazeyanehal/MedBot-Mini
 cd MedBot-Mini
-```bash
+```
 
 2️⃣ Install Dependencies
 ```bash
 pip install streamlit
-```bash
+```
 
 3️⃣ Run the App
 ```bash
 streamlit run app.py  # replace app.py with your main file name
 Open the URL shown in your browser to start using MedBot Mini.
-```bash
+```
 
 ### ⚙️ Features
 1️⃣ Ask About a Medicine
