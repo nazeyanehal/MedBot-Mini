@@ -56,13 +56,13 @@ Sends visual reminders: 🔔 "It’s time to take Medicine Name"
 ```
 MedBot-Mini/
 │
-├── app.py             # Main Streamlit app
+├── medbot_mini.py             # Main Streamlit app
 ├── medicine_data.py   # Database of medicines
 └── README.md          # Project README
 ```
 
 ### 📝 How It Works
-Medicines are retrieved from a pre-defined database (med_db)
+Medicines are retrieved from a pre-defined database 
 
 User inputs are processed in real-time with Streamlit widgets
 
